@@ -14,7 +14,7 @@ A modern, responsive Textile Ecommerce application built with React.js. This app
 - **Frontend:** React.js
 - **API:** Fake Store API
 - **Styling:** Tailwind CSS (for quick styling and responsiveness)
-
+  
 ## Installation
 
 1. Clone this repository to your local machine:
