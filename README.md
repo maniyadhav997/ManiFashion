@@ -20,5 +20,5 @@ A modern, responsive Textile Ecommerce application built with React.js. This app
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/textile-ecommerce.git
+   git clone https://github.com/maniyadhav997/ManiFashion.git
    ```
